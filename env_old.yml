@@ -1,0 +1,16 @@
+name: my-dashboard-env
+channels:
+  - https://repo.mamba.pm/emscripten-forge
+  - conda-forge
+  - plotly
+dependencies:
+  - xeus-python
+  - voici
+  - matplotlib
+  - numpy
+  - pandas
+  - ipywidgets
+  - ipycanvas
+  - seaborn
+  - plotly
+  - bqplot
